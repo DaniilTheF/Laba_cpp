@@ -1,0 +1,12 @@
+#pragma once
+#include <fstream>
+#include <iostream>
+#include <cstdlib>
+#include <vector>
+#include <list>
+#include <string>
+#include <iomanip>
+#include <Windows.h>
+#include <conio.h>
+#include <regex>
+#include <map>
